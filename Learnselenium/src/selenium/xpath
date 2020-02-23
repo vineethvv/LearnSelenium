@@ -1,0 +1,13 @@
+xpath
+
+1. for links by using contains
+
+//a[contains(text(), 'value')]--- recommended
+
+2. xpath by using AND operator
+
+//tagname[@attribute name = 'attribute value' and @attribute name = 'attribute value']
+
+3. dynamic xpath for webtable 
+
+//tagname[text()='value']//parent::tagname[@attribute name = 'attribute value']//preceding-sibling::tagname[@attribute name = 'attribute value']//child::tagname[@attribute name = 'attribute value']

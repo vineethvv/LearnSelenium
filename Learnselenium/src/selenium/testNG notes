@@ -1,0 +1,18 @@
+TestNG--- unit test framework & its is open source
+
+it is available in the form of JAR files
+
+it is also known as java unit testing framework
+
+it is also known as TDD ( Test driven development ) frame work
+
+purpose 
+
+-- design testcases in a systematic way
+-- To generate HTML reports
+-- It gives different annotations
+-- We can define the priority ie which tetscases to be executed first
+-- Also the sequence of the testcase we can define
+-- We can define the dependency
+-- We can define grouping
+-- Data provider feature is alos there
